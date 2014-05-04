@@ -1,6 +1,6 @@
 # MIDIExchange
 
-[codeheath](https://www.codeship.io/projects/1b298ee0-b566-0131-9539-2ea5d9165023/status)
+[ ![Codeship Status for rkamradt/MIDIExchange](https://www.codeship.io/projects/1b298ee0-b566-0131-9539-2ea5d9165023/status?branch=master)](https://www.codeship.io/projects/20374)
 
 A website that will allow users to exchange MIDI files
 
